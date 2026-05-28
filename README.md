@@ -161,14 +161,3 @@ n8n-rag-gemini-neon/
 **El chatbot responde sin contexto del documento**
 > Confirma que la ingesta de datos se ejecutó correctamente y que los embeddings están almacenados en Neon. Puedes verificarlo con: `SELECT COUNT(*) FROM documents;`
 
----
-
-## 📄 Licencia
-
-MIT — libre para uso personal y comercial.
-
----
-
-## 🙌 Créditos
-
-Construido con [n8n](https://n8n.io/), [Neon Tech](https://neon.tech/) y [Google Gemini](https://deepmind.google/technologies/gemini/).
