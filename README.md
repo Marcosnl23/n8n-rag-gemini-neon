@@ -13,6 +13,9 @@ El flujo se divide en dos pipelines principales:
 - **Data Ingestion**: Carga y procesa documentos para almacenarlos como embeddings en PostgreSQL.
 - **RAG Chatbot**: Recibe mensajes del usuario, recupera contexto relevante y genera respuestas con Gemini.
 
+<img width="1864" height="823" alt="{165205D2-3869-45B4-989E-F293867AD271}" src="https://github.com/user-attachments/assets/139e4a61-c141-4471-b21e-75874ecddcd7" />
+
+
 ---
 
 ## 🏗️ Arquitectura
