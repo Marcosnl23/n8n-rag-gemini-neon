@@ -146,8 +146,6 @@ CREATE TABLE documents (
 n8n-rag-gemini-neon/
 ├── README.md
 ├── workflow.json          # Exportación del workflow de n8n
-└── sql/
-    └── setup.sql          # Script de inicialización de la base de datos
 ```
 
 ---
